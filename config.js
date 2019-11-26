@@ -2,9 +2,6 @@ module.exports = {
   title: 'Сервисы Aplaut',
   description: 'Вы можете подписаться на статус всех сервисов Aplaut',
   baseUrl: 'https://status.aplaut.io',
-  analytics: {
-    ga: 'UA-XXXXXXXXX-Y',
-  },
   defaultLocale: 'ru',
   locales: [
     { code: 'ru', iso: 'ru-RU', name: 'Русский' },
@@ -23,6 +20,13 @@ module.exports = {
   theme: {
     scheduled: {
       position: 'aboveGlobalStatus'
+    }, 
+    links: {
+      ru: {
+        contact: "https://aplaut.com/contact",
+        home: "https://aplaut.com", 
+        support: "mailto://support@aplaut.com"
+      }
     }
   },
   head: {

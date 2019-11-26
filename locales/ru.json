@@ -1,6 +1,6 @@
 {
-  "title": "Статус сервисов",
-  "description": "Keep up to date with real-time and historical interruptions to our service which may be affecting you.",
+  "title": "Статусы сервисов",
+  "description": "Будьте в курсе статусов работоспособности сервисов платформы Aplaut",
   "labels": {
     "contact": "Контакты",
     "support": "Поддержка",
@@ -95,11 +95,11 @@
     "items": {
       "icalendar": {
         "title": "Календарь",
-        "description": "Receive <strong>Scheduled Maintenances</strong> via <a href=\"{url}\" target=\"_blank\" rel=\"noopener\">iCalendar</a>."
+        "description": "Получайте предупреждения о <strong>запланированных работах</strong> в формате <a href=\"{url}\" target=\"_blank\" rel=\"noopener\">iCalendar</a>."
       },
       "feeds": {
         "title": "RSS",
-        "description": "Get <a href=\"{atom_url}\" target=\"_blank\" rel=\"noopener\">the Atom Feed</a> or <a href=\"{rss_url}\" target=\"_blank\" rel=\"noopener\">the RSS Feed</a>."
+        "description": "Подпишитесь на уведомления в формате <a href=\"{atom_url}\" target=\"_blank\" rel=\"noopener\">the Atom Feed</a> или <a href=\"{rss_url}\" target=\"_blank\" rel=\"noopener\">the RSS Feed</a>."
       },
       "webpush": {
         "title": "Веб-пуш",

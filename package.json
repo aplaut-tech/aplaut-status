@@ -12,7 +12,8 @@
     "new-incident": "statusfy new-incident",
     "delete-incident": "statusfy delete-incident",
     "update-incident": "statusfy update-incident",
-    "deploy": "gh-pages -d dist"
+    "gh-publish": "gh-pages -d dist",
+    "deploy": "yarn generate && cp CNAME dist/ && yarn gh-publish"
   },
   "dependencies": {
     "statusfy": "^0.4.3"
