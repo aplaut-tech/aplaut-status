@@ -4,7 +4,7 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Tue, 26 Nov 2019 11:04:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2019 11:20:55 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
@@ -14,6 +14,9 @@
             <guid>https://status.aplaut.io/incidents/dc36eee4</guid>
             <pubDate>Tue, 26 Nov 2019 10:04:49 GMT</pubDate>
             <content:encoded><![CDATA[<p>Запланированная миграция данных на новые сервера. Перерывов в работе не ожидается.</p>
+<p>::: update Monitoring | 2019-11-26T14:19
+Мигрировали один сервер, работа продолжается.
+:::</p>
 <!--- language code: ru -->
 ]]></content:encoded>
         </item>

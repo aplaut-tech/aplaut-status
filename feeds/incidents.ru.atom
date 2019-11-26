@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2019-11-26T11:04:57.556Z</updated>
+    <updated>2019-11-26T11:20:55.078Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
@@ -13,6 +13,9 @@
         <link href="https://status.aplaut.io/incidents/dc36eee4"/>
         <updated>2019-11-26T10:04:49.997Z</updated>
         <content type="html"><![CDATA[<p>Запланированная миграция данных на новые сервера. Перерывов в работе не ожидается.</p>
+<p>::: update Monitoring | 2019-11-26T14:19
+Мигрировали один сервер, работа продолжается.
+:::</p>
 <!--- language code: ru -->
 ]]></content>
     </entry>
