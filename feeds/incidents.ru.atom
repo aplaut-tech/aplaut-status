@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://status.aplaut.io</id>
+    <title>Сервисы Aplaut</title>
+    <updated>2019-11-26T08:34:27.893Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="https://status.aplaut.io"/>
+    <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
+    <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+</feed>
