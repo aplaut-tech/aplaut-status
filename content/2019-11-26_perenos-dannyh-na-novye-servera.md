@@ -9,7 +9,7 @@ affectedsystems:
   - platform-api
   - submissions-api
   - web-console
-resolved: false
+resolved: true
 ---
 Запланированная миграция данных на новые сервера. Перерывов в работе не ожидается.
 
