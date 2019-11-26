@@ -34,8 +34,8 @@
     "current-status": "Текущий статус",
     "current-status-description": "Keep up to date with real-time and historical interruptions to our service which may be affecting you.",
     "no-incidents": "Нет зарегистрированных инцидентов",
-    "resolved": "Разрешен",
-    "unresolved": "Не разрешен",
+    "resolved": "Закрыт",
+    "unresolved": "В работе",
     "paginator": {
       "previous": "Предыдущая страница",
       "next": "Следующая страница",

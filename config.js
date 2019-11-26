@@ -29,7 +29,7 @@ module.exports = {
     link: [
       { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#3e4e88' }
     ]
-  }, 
+  },
   notifications: {
     webpush: {
       onesignal: {
