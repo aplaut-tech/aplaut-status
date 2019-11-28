@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2019-11-28T06:19:47.153Z</updated>
+    <updated>2019-11-28T13:07:41.822Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Частичная недоступность Widgets API]]></title>
+        <id>https://status.aplaut.io/incidents/413bf1a8</id>
+        <link href="https://status.aplaut.io/incidents/413bf1a8"/>
+        <updated>2019-11-28T12:16:02.047Z</updated>
+        <content type="html"><![CDATA[<p>Продолжается миграция сервисов на новые сервера. При переключении веб-трафика возможно падение производительности сервисов.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Миграция сервисов]]></title>
         <id>https://status.aplaut.io/incidents/0f51f88a</id>

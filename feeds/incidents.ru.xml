@@ -4,10 +4,19 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Thu, 28 Nov 2019 06:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2019 13:07:41 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Частичная недоступность Widgets API]]></title>
+            <link>https://status.aplaut.io/incidents/413bf1a8</link>
+            <guid>https://status.aplaut.io/incidents/413bf1a8</guid>
+            <pubDate>Thu, 28 Nov 2019 12:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Продолжается миграция сервисов на новые сервера. При переключении веб-трафика возможно падение производительности сервисов.</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Миграция сервисов]]></title>
             <link>https://status.aplaut.io/incidents/0f51f88a</link>
