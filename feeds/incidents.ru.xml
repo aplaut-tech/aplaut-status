@@ -4,7 +4,7 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Thu, 28 Nov 2019 13:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2019 07:32:24 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
@@ -26,10 +26,20 @@
         </item>
         <item>
             <title><![CDATA[Миграция сервисов]]></title>
-            <link>https://status.aplaut.io/incidents/0f51f88a</link>
-            <guid>https://status.aplaut.io/incidents/0f51f88a</guid>
+            <link>https://status.aplaut.io/incidents/413b7d49</link>
+            <guid>https://status.aplaut.io/incidents/413b7d49</guid>
             <pubDate>Wed, 27 Nov 2019 12:16:02 GMT</pubDate>
             <content:encoded><![CDATA[<p>Продолжается миграция все сервисов платформы на новые сервера. Возможна краткосрочная недоступность, но не больше 5 минут.</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Миграция сервисов]]></title>
+            <link>https://status.aplaut.io/incidents/499d0009</link>
+            <guid>https://status.aplaut.io/incidents/499d0009</guid>
+            <pubDate>Wed, 27 Nov 2019 12:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Продолжается миграция сервисов платформы на новые сервера. Сегодня  полностью переиндексируем заказы, возможно не все заказы будут видны в разделе заказы. Реиндекс частично затронет email кампании.</p>
+<p>Также планируем провести оптимизацию настроек некоторых серверов, возможная краткосрочная недоступность, но не больше 5 минут.</p>
 <!--- language code: ru -->
 ]]></content:encoded>
         </item>
