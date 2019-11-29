@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2019-11-29T07:32:24.892Z</updated>
+    <updated>2019-11-29T07:37:24.944Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Миграция сервисов]]></title>
+        <id>https://status.aplaut.io/incidents/499d0009</id>
+        <link href="https://status.aplaut.io/incidents/499d0009"/>
+        <updated>2019-11-29T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Продолжается миграция сервисов платформы на новые сервера. Сегодня  полностью переиндексируем заказы, возможно не все заказы будут видны в разделе заказы. Реиндекс частично затронет email кампании.</p>
+<p>Также планируем провести оптимизацию настроек некоторых серверов, возможная краткосрочная недоступность, но не больше 5 минут.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Частичная недоступность Widgets API]]></title>
         <id>https://status.aplaut.io/incidents/413bf1a8</id>
@@ -29,16 +39,6 @@
         <link href="https://status.aplaut.io/incidents/413b7d49"/>
         <updated>2019-11-27T12:16:02.047Z</updated>
         <content type="html"><![CDATA[<p>Продолжается миграция все сервисов платформы на новые сервера. Возможна краткосрочная недоступность, но не больше 5 минут.</p>
-<!--- language code: ru -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Миграция сервисов]]></title>
-        <id>https://status.aplaut.io/incidents/499d0009</id>
-        <link href="https://status.aplaut.io/incidents/499d0009"/>
-        <updated>2019-11-27T12:16:02.047Z</updated>
-        <content type="html"><![CDATA[<p>Продолжается миграция сервисов платформы на новые сервера. Сегодня  полностью переиндексируем заказы, возможно не все заказы будут видны в разделе заказы. Реиндекс частично затронет email кампании.</p>
-<p>Также планируем провести оптимизацию настроек некоторых серверов, возможная краткосрочная недоступность, но не больше 5 минут.</p>
 <!--- language code: ru -->
 ]]></content>
     </entry>
