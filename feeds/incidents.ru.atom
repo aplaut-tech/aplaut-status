@@ -2,26 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2019-12-02T12:16:30.560Z</updated>
+    <updated>2019-12-02T12:20:37.042Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
     <entry>
         <title type="html"><![CDATA[Миграция сервисов]]></title>
-        <id>https://status.aplaut.io/incidents/499d0009</id>
-        <link href="https://status.aplaut.io/incidents/499d0009"/>
-        <updated>2019-11-29T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Продолжается миграция сервисов платформы на новые сервера. Сегодня  полностью переиндексируем заказы, возможно не все заказы будут видны в разделе заказы. Реиндекс частично затронет email кампании.</p>
-<p>Также планируем провести оптимизацию настроек некоторых серверов, возможная краткосрочная недоступность, но не больше 5 минут.</p>
-<!--- language code: ru -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Миграция сервисов]]></title>
         <id>https://status.aplaut.io/incidents/76be275c</id>
         <link href="https://status.aplaut.io/incidents/76be275c"/>
-        <updated>2019-11-29T07:00:00.000Z</updated>
+        <updated>2019-12-02T07:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Наблюдается нестабильность задержки ответов Widgets API. Проблема локализована, исправляем.</p>
 <div class="update-block">
           <div class="update-block-date">2019-12-02T11:00:00.000Z</div>
@@ -30,6 +20,16 @@
             <div class="update-block-body">
 <p>Не хватало ресурсов кэширующим серверам Redis, выделены дополнительные ресурсы.</p>
 </div></div></div>
+<!--- language code: ru -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Миграция сервисов]]></title>
+        <id>https://status.aplaut.io/incidents/499d0009</id>
+        <link href="https://status.aplaut.io/incidents/499d0009"/>
+        <updated>2019-11-29T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Продолжается миграция сервисов платформы на новые сервера. Сегодня  полностью переиндексируем заказы, возможно не все заказы будут видны в разделе заказы. Реиндекс частично затронет email кампании.</p>
+<p>Также планируем провести оптимизацию настроек некоторых серверов, возможная краткосрочная недоступность, но не больше 5 минут.</p>
 <!--- language code: ru -->
 ]]></content>
     </entry>
