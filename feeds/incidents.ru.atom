@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2019-12-06T19:09:35.015Z</updated>
+    <updated>2019-12-06T19:21:18.590Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
@@ -12,7 +12,7 @@
         <id>https://status.aplaut.io/incidents/30b2c5bc</id>
         <link href="https://status.aplaut.io/incidents/30b2c5bc"/>
         <updated>2019-12-06T19:07:10.376Z</updated>
-        <content type="html"><![CDATA[<p>Плановое обновление версии ПО Docker. Ожидается краковременная недоступность некоторых сервисов до 10 минут.</p>
+        <content type="html"><![CDATA[<p>Плановое обновление версии ПО Docker. Ожидается кратковременная недоступность некоторых сервисов до 1 минуты.</p>
 <!--- language code: ru -->
 ]]></content>
     </entry>
