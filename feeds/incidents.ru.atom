@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2019-12-06T19:21:18.590Z</updated>
+    <updated>2019-12-16T08:21:03.557Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Email кампании частично остановлены]]></title>
+        <id>https://status.aplaut.io/incidents/27045abc</id>
+        <link href="https://status.aplaut.io/incidents/27045abc"/>
+        <updated>2019-12-12T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Отправка писем по некоторым email кампаниям временно приостановлена. Один из наших доменов отправки был заблокирован почтовым сервисом. Что автоматиченски привело к блокировке всего аккаунта. На данный момент мы настроили своего рассыльщика и идет постепенное переключение трафика.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Плановое обновление]]></title>
+        <id>https://status.aplaut.io/incidents/b84ff5ec</id>
+        <link href="https://status.aplaut.io/incidents/b84ff5ec"/>
+        <updated>2019-12-06T19:07:10.376Z</updated>
+        <content type="html"><![CDATA[<p>Плановое обновление версии ПО Docker. Ожидается краковременная недоступность некоторых сервисов до 10 минут.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Плановое обновление]]></title>
         <id>https://status.aplaut.io/incidents/30b2c5bc</id>
