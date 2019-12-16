@@ -4,7 +4,7 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Mon, 16 Dec 2019 08:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2019 08:43:01 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
@@ -13,16 +13,7 @@
             <link>https://status.aplaut.io/incidents/4f2850ba</link>
             <guid>https://status.aplaut.io/incidents/4f2850ba</guid>
             <pubDate>Thu, 12 Dec 2019 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p>Отправка писем по некоторым email кампаниям временно приостановлена. Один из наших доменов отправки был заблокирован почтовым сервисом. Что автоматиченски привело к блокировке всего аккаунта. На данный момент мы настроили своего рассыльщика и идет постепенное переключение трафика.</p>
-<!--- language code: ru -->
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Плановое обновление]]></title>
-            <link>https://status.aplaut.io/incidents/b84ff5ec</link>
-            <guid>https://status.aplaut.io/incidents/b84ff5ec</guid>
-            <pubDate>Fri, 06 Dec 2019 19:07:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p>Плановое обновление версии ПО Docker. Ожидается краковременная недоступность некоторых сервисов до 10 минут.</p>
+            <content:encoded><![CDATA[<p>Отправка писем по некоторым email кампаниям временно приостановлена. Один из наших доменов отправки был заблокирован почтовым сервисом. Что автоматически привело к блокировке всего аккаунта. На данный момент мы настроили своего рассыльщика и идет постепенное переключение трафика.</p>
 <!--- language code: ru -->
 ]]></content:encoded>
         </item>
