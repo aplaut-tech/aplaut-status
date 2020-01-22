@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2019-12-19T12:23:35.120Z</updated>
+    <updated>2020-01-22T10:53:55.195Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Падение производительности Widgets API]]></title>
+        <id>https://status.aplaut.io/incidents/46fc9419</id>
+        <link href="https://status.aplaut.io/incidents/46fc9419"/>
+        <updated>2020-01-21T16:40:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Задеплоили важное изменение, инвалидировали кэш виджетов. 40 минут наблюдали падение производительности Widgets API.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Email кампании частично остановлены]]></title>
         <id>https://status.aplaut.io/incidents/4f2850ba</id>
