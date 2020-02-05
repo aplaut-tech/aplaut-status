@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2020-02-05T09:41:18.117Z</updated>
+    <updated>2020-02-05T09:41:55.813Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Системные уведомления]]></title>
+        <id>https://status.aplaut.io/incidents/30354a36</id>
+        <link href="https://status.aplaut.io/incidents/30354a36"/>
+        <updated>2020-02-05T11:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Наблюдается задержка в доставке системных писем (уведомления, экспорты, ...). Также есть неточности в статистике по доставленным и прочитанным письмам email кампаний.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Частичная недоступность сервисов]]></title>
         <id>https://status.aplaut.io/incidents/640541c4</id>
         <link href="https://status.aplaut.io/incidents/640541c4"/>
         <updated>2020-02-04T11:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Наблюдается частичная недоступность некоторых сервисов из-за неполадок в локальной сети нашего дата-центра.</p>
-<!--- language code: ru -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Системные уведомления]]></title>
-        <id>https://status.aplaut.io/incidents/30354a36</id>
-        <link href="https://status.aplaut.io/incidents/30354a36"/>
-        <updated>2020-02-04T11:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Наблюдается задержка в доставке системных писем (уведомления, экспорты, ...). Также есть неточности в статистике по доставленным и прочитанным письмам email кампаний.</p>
 <!--- language code: ru -->
 ]]></content>
     </entry>

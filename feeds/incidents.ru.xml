@@ -4,25 +4,25 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Wed, 05 Feb 2020 09:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2020 09:41:55 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Системные уведомления]]></title>
+            <link>https://status.aplaut.io/incidents/30354a36</link>
+            <guid>https://status.aplaut.io/incidents/30354a36</guid>
+            <pubDate>Wed, 05 Feb 2020 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Наблюдается задержка в доставке системных писем (уведомления, экспорты, ...). Также есть неточности в статистике по доставленным и прочитанным письмам email кампаний.</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Частичная недоступность сервисов]]></title>
             <link>https://status.aplaut.io/incidents/640541c4</link>
             <guid>https://status.aplaut.io/incidents/640541c4</guid>
             <pubDate>Tue, 04 Feb 2020 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>Наблюдается частичная недоступность некоторых сервисов из-за неполадок в локальной сети нашего дата-центра.</p>
-<!--- language code: ru -->
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Системные уведомления]]></title>
-            <link>https://status.aplaut.io/incidents/30354a36</link>
-            <guid>https://status.aplaut.io/incidents/30354a36</guid>
-            <pubDate>Tue, 04 Feb 2020 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p>Наблюдается задержка в доставке системных писем (уведомления, экспорты, ...). Также есть неточности в статистике по доставленным и прочитанным письмам email кампаний.</p>
 <!--- language code: ru -->
 ]]></content:encoded>
         </item>
