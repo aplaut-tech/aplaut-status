@@ -13,18 +13,19 @@ module.exports = {
       'platform-api',
       'submissions-api',
       'web-console',
-      'email-delivery', 
-      'reviews-monitoring' 
+      'campaigns-delivery',
+      'notifications-delivery',
+      'reviews-monitoring'
     ]
   },
   theme: {
     scheduled: {
       position: 'aboveGlobalStatus'
-    }, 
+    },
     links: {
       ru: {
         contact: "https://aplaut.com/contact",
-        home: "https://aplaut.com", 
+        home: "https://aplaut.com",
         support: "mailto://support@aplaut.com"
       }
     }

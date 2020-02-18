@@ -60,25 +60,29 @@
   "systems": {
     "items": {
       "widgets-api": {
-        "title": "Widgets API", 
+        "title": "Widgets API",
         "description": "Доставка контента на клиентские устройства"
       },
       "platform-api": {
-        "title": "Platform API", 
+        "title": "Platform API",
         "description": "Доступ к клиентским данным с сервера"
       },
       "submissions-api": {
-        "title": "Submissions API", 
+        "title": "Submissions API",
         "description": "Отправка контента через клиентские устройства"
       },
       "web-console": {
         "title": "Веб консоль",
         "description": "Личный кабинет"
-      }, 
-      "email-delivery": {
+      },
+      "campaigns-delivery": {
         "title": "Email кампании",
         "description": "Доставка писем клиентам"
-      }, 
+      },
+      "notifications-delivery": {
+        "title": "Системные уведомления",
+        "description": "Доставка системных уведомлений"
+      },
       "reviews-monitoring": {
         "title": "Мониторинг отзывов",
         "description": "Мониторинг отзывов на разных площадках"
