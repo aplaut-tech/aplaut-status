@@ -4,14 +4,14 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Tue, 18 Feb 2020 07:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2020 07:04:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Плановое обновление БД]]></title>
-            <link>https://status.aplaut.io/incidents/30b2c5bc</link>
-            <guid>https://status.aplaut.io/incidents/30b2c5bc</guid>
+            <link>https://status.aplaut.io/incidents/596db6f1</link>
+            <guid>https://status.aplaut.io/incidents/596db6f1</guid>
             <pubDate>Mon, 17 Feb 2020 14:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>Плановое обновление сервера БД (2 версии). Ожидается кратковременная недоступность некоторых сервисов до 1 минуты.</p>
 <div class="update-block">
@@ -81,6 +81,15 @@
 <p>Отправка писем восстановлена, аккаунты разблокированы. Часть писем отправляется через новый рассыльщик.
 В ЛК в разделе Отчеты по кампаниям может быть не точная статистика по отправленным письмам.</p>
 </div></div></div>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Плановое обновление]]></title>
+            <link>https://status.aplaut.io/incidents/30b2c5bc</link>
+            <guid>https://status.aplaut.io/incidents/30b2c5bc</guid>
+            <pubDate>Fri, 06 Dec 2019 19:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Плановое обновление версии ПО Docker. Ожидается кратковременная недоступность некоторых сервисов до 1 минуты.</p>
 <!--- language code: ru -->
 ]]></content:encoded>
         </item>
