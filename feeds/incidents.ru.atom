@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2020-02-21T10:20:21.588Z</updated>
+    <updated>2020-03-16T07:45:55.533Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Недоступность Widgets API]]></title>
+        <id>https://status.aplaut.io/incidents/02b48178</id>
+        <link href="https://status.aplaut.io/incidents/02b48178"/>
+        <updated>2020-03-15T18:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Из-за ошибок во внешнем сервисе, временно остановлена раздача скрипта, который отображает виджет с отзывами.</p>
+<div class="update-block">
+          <div class="update-block-date">2020-03-16T07:30:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Monitoring</div>
+            <div class="update-block-body">
+<p>На данный момент проблема устранена. Для своевременного обнаружения проблемы в следующий раз:</p>
+<ol>
+<li>Добавим мониторинг доступности скрипта через CDN</li>
+<li>Устраним зависимость от внешнего сервиса.</li>
+</ol>
+</div></div></div>
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Плановое переключение трафика Widgets API]]></title>
         <id>https://status.aplaut.io/incidents/42253c0a</id>
