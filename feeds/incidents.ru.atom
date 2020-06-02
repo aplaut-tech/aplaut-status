@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2020-03-16T07:48:44.678Z</updated>
+    <updated>2020-06-02T20:52:24.361Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Падение производительности Widgets API]]></title>
+        <id>https://status.aplaut.io/incidents/4db9bbbb</id>
+        <link href="https://status.aplaut.io/incidents/4db9bbbb"/>
+        <updated>2020-06-02T19:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>После обновления настроек кэширующих серверов, обнаружилась проблема с подсистемой логов, которая проявлялась только под нагрузкой.
+Пришлось несколько раз перезагрузить сервисы, что приводило к увеличению задержки в работе Widgets API.
+На данный момент задержка приходит в норму, проводим наблюдение.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Недоступность Widgets API]]></title>
         <id>https://status.aplaut.io/incidents/02b48178</id>
