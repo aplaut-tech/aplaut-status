@@ -4,10 +4,20 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Wed, 10 Jun 2020 13:58:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2020 14:03:24 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Плановое обновление БД]]></title>
+            <link>https://status.aplaut.io/incidents/761f53ca</link>
+            <guid>https://status.aplaut.io/incidents/761f53ca</guid>
+            <pubDate>Wed, 10 Jun 2020 13:51:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Планируем обновить БД. Будем переключать мастер реплику базу данных.
+Ожидается кратковременная недоступность некоторых сервисов (до 1 минуты).</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Падение производительности Widgets API]]></title>
             <link>https://status.aplaut.io/incidents/4db9bbbb</link>
