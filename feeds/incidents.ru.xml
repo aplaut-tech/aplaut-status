@@ -4,10 +4,22 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Wed, 10 Jun 2020 14:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2020 19:30:21 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Недоступность Widgets API]]></title>
+            <link>https://status.aplaut.io/incidents/6ec960d8</link>
+            <guid>https://status.aplaut.io/incidents/6ec960d8</guid>
+            <pubDate>Sat, 13 Jun 2020 21:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Ночью в 00:00 часов выключился один из наших серверов, который обрабатывает запросы в Widgets API.
+Оказывается наш хостинг-провайдер не произвел автоматическое списание средств с предоплаченного счета, тк на данном конкретном сервере автоматическое списание было не включено.
+Уведомление об отключении пришло на почту в выходной день, и мы его пропустили. На данный момент все сервисы работают в штатном режиме.</p>
+<p>Приносим свои извинения.</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Плановое обновление БД]]></title>
             <link>https://status.aplaut.io/incidents/761f53ca</link>
