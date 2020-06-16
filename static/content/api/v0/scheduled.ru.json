@@ -1,1 +1,1 @@
-{"count":0,"incidents":[]}
+{"count":1,"incidents":[{"id":"f645b8c4","title":"Плановые работы БД","date":"2020-06-16T11:45:00.000Z","modified":"2020-06-16T11:35:20.336Z","scheduled":"2020-06-16T11:45:00.000Z","duration":15,"severity":"under-maintenance","affectedsystems":["widgets-api","platform-api","submissions-api","web-console"],"resolved":"афдыу","content":"<p>Планируем добавить новые индексы для оптимизации производительности БД.\nОжидается недоступность некоторых сервисов.</p>\n<!--- language code: ru -->\n"}]}
