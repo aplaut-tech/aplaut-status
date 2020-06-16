@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2020-06-16T11:35:32.539Z</updated>
+    <updated>2020-06-16T11:36:54.809Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Плановые работы БД]]></title>
+        <id>https://status.aplaut.io/incidents/f645b8c4</id>
+        <link href="https://status.aplaut.io/incidents/f645b8c4"/>
+        <updated>2020-06-16T11:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Планируем добавить новые индексы для оптимизации производительности БД.
+Ожидается недоступность некоторых сервисов.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Недоступность Widgets API]]></title>
         <id>https://status.aplaut.io/incidents/6ec960d8</id>
