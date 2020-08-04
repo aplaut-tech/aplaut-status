@@ -7,7 +7,7 @@ affectedsystems:
   - platform-api
   - submissions-api
   - web-console
-resolved: афдыу
+resolved: true
 scheduled: '2020-06-16T11:00:00.000Z'
 duration: 15
 ---
