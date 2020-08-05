@@ -1,6 +1,6 @@
 ---
 title: Плановое обновление БД
-date: '2020-06-16T11:00:00.000Z'
+date: '2020-08-04T09:00:00.000Z'
 severity: under-maintenance
 affectedsystems:
   - widgets-api
