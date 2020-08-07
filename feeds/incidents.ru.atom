@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2020-08-05T08:01:14.797Z</updated>
+    <updated>2020-08-07T07:29:42.897Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Не отправляются письма]]></title>
+        <id>https://status.aplaut.io/incidents/d3341060</id>
+        <link href="https://status.aplaut.io/incidents/d3341060"/>
+        <updated>2020-08-07T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Не работает отправка писем авто-кампаний, а также системные уведомления.
+Разбираемся.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Плановое обновление Widgets API]]></title>
         <id>https://status.aplaut.io/incidents/298b065f</id>
