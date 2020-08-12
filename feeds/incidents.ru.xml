@@ -4,10 +4,23 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Fri, 07 Aug 2020 09:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2020 07:22:43 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Не отправляются письма]]></title>
+            <link>https://status.aplaut.io/incidents/2e8e7a76</link>
+            <guid>https://status.aplaut.io/incidents/2e8e7a76</guid>
+            <pubDate>Wed, 12 Aug 2020 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Не работает отправка писем авто-кампаний. Ошибка в конфигурации SMTP подключения
+к mail серверу. Исправляем.</p>
+<!-- ::: update Monitoring | 2020-08-07T09:00:00Z
+Проблема решена.
+::: -->
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Падение производительности Widgets API]]></title>
             <link>https://status.aplaut.io/incidents/78bff870</link>
