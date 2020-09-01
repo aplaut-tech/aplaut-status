@@ -4,10 +4,19 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Fri, 14 Aug 2020 07:59:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2020 12:21:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Неполадки в работе Platform API]]></title>
+            <link>https://status.aplaut.io/incidents/01c4e390</link>
+            <guid>https://status.aplaut.io/incidents/01c4e390</guid>
+            <pubDate>Tue, 01 Sep 2020 12:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Patform API на любой запрос отвечает 404. Разбираемся.</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Недоступность Widgets API]]></title>
             <link>https://status.aplaut.io/incidents/54b2765c</link>
