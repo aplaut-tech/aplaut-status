@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2020-09-01T14:19:10.116Z</updated>
+    <updated>2020-09-09T10:22:52.309Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Недоступность главной реплики БД]]></title>
+        <id>https://status.aplaut.io/incidents/3bc7a09e</id>
+        <link href="https://status.aplaut.io/incidents/3bc7a09e"/>
+        <updated>2020-09-09T01:30:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Сегодня ночью перезапустилась одна из главных (master) реплик кластера БД.
+К сожалению, наши сервисы не смогли автоматически восстановится после такого сбоя,
+причина нам известна.</p>
+<p>В ближайшее время мы сделаем изменения в конфигурации БД,
+чтобы данная ситуация больше не повторялась.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Неполадки в работе Platform API]]></title>
         <id>https://status.aplaut.io/incidents/01c4e390</id>

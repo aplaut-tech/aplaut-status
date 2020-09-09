@@ -4,10 +4,23 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Tue, 01 Sep 2020 14:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2020 10:22:52 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Недоступность главной реплики БД]]></title>
+            <link>https://status.aplaut.io/incidents/3bc7a09e</link>
+            <guid>https://status.aplaut.io/incidents/3bc7a09e</guid>
+            <pubDate>Wed, 09 Sep 2020 01:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Сегодня ночью перезапустилась одна из главных (master) реплик кластера БД.
+К сожалению, наши сервисы не смогли автоматически восстановится после такого сбоя,
+причина нам известна.</p>
+<p>В ближайшее время мы сделаем изменения в конфигурации БД,
+чтобы данная ситуация больше не повторялась.</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Неполадки в работе Platform API]]></title>
             <link>https://status.aplaut.io/incidents/01c4e390</link>
