@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2020-09-09T10:22:52.309Z</updated>
+    <updated>2020-11-06T10:01:19.302Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Недоступность Widgets API]]></title>
+        <id>https://status.aplaut.io/incidents/5c8e2d2f</id>
+        <link href="https://status.aplaut.io/incidents/5c8e2d2f"/>
+        <updated>2020-11-06T09:50:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Сегодня ночью в нашем дата-центре проводились плановые работы по модернизации сети.
+В 00:10 по Москве произошло нарушение связности примерно на 20 минут, из-за чего
+наблюдалась частичная недоступность Widgets API.</p>
+<p>Приносим извинения за доставленные неудобства.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Недоступность главной реплики БД]]></title>
         <id>https://status.aplaut.io/incidents/3bc7a09e</id>

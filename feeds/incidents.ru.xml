@@ -4,10 +4,22 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Wed, 09 Sep 2020 10:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2020 10:01:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Недоступность Widgets API]]></title>
+            <link>https://status.aplaut.io/incidents/5c8e2d2f</link>
+            <guid>https://status.aplaut.io/incidents/5c8e2d2f</guid>
+            <pubDate>Fri, 06 Nov 2020 09:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Сегодня ночью в нашем дата-центре проводились плановые работы по модернизации сети.
+В 00:10 по Москве произошло нарушение связности примерно на 20 минут, из-за чего
+наблюдалась частичная недоступность Widgets API.</p>
+<p>Приносим извинения за доставленные неудобства.</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Недоступность главной реплики БД]]></title>
             <link>https://status.aplaut.io/incidents/3bc7a09e</link>
