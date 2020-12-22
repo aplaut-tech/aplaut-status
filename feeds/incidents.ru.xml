@@ -4,7 +4,7 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Tue, 22 Dec 2020 19:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2020 19:17:28 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
@@ -15,7 +15,7 @@
             <pubDate>Tue, 22 Dec 2020 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>Сегодня c 11:00 до 20:00 по Москве наблюдалась частичная недоступность
 Widgets API. Мы не смогли быстро локализовать причину проблемы,
-поэтому <strong>использовали не правильные способы</strong> ее решения 😔.</p>
+поэтому <strong>использовали неправильные способы</strong> ее решения 😔.</p>
 <br>
 <p>Причиной оказался <strong>неэффективный запрос</strong> в индекс c отзывами в поисковом
 сервере Elasticsearch. Этот запрос стал причиной целого каскада проблем:</p>
