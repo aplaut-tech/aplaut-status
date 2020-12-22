@@ -4,7 +4,7 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Tue, 22 Dec 2020 19:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2020 19:21:21 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
@@ -20,8 +20,8 @@ Widgets API. Мы не смогли быстро локализовать при
 <p>Причиной оказался <strong>неэффективный запрос</strong> в индекс c отзывами в поисковом
 сервере Elasticsearch. Этот запрос стал причиной целого каскада проблем:</p>
 <ol>
-<li>Большой трафик в локальной сети м/у физическими серверами забивал сеть,
-поэтому некоторые сервисы переставали видеть друг друга
+<li>Большой трафик в локальной сети м/у физическими серверами забивал сеть
+(200mb/s на порт), поэтому некоторые сервисы переставали видеть друг друга
 (внутренний DNS сервер иногда не отвечал)</li>
 <li>Утечка памяти в веб-воркерах, которые отправляли соответствующие запросы
 в поисковый сервер, приводила к увеличению нагрузки на CPU и локальный диск (своп).</li>
