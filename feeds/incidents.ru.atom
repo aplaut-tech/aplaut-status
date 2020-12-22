@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2020-12-22T18:58:51.975Z</updated>
+    <updated>2020-12-22T19:01:30.458Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
@@ -33,16 +33,6 @@ Widgets API. Мы не смогли быстро локализовать при
 <li>Оптимизируем данный неэффективный запрос.</li>
 </ol>
 <p>Приносим извинения за доставленные неудобства.</p>
-<!--- language code: ru -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Плановое обновление БД]]></title>
-        <id>https://status.aplaut.io/incidents/3acba1c1</id>
-        <link href="https://status.aplaut.io/incidents/3acba1c1"/>
-        <updated>2020-12-02T12:30:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Плановое обновление сервера БД. Ожидается кратковременная недоступность некоторых
-сервисов до 15 минут.</p>
 <!--- language code: ru -->
 ]]></content>
     </entry>

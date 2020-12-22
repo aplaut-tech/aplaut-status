@@ -4,7 +4,7 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Tue, 22 Dec 2020 18:58:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2020 19:01:30 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
@@ -34,16 +34,6 @@ Widgets API. Мы не смогли быстро локализовать при
 <li>Оптимизируем данный неэффективный запрос.</li>
 </ol>
 <p>Приносим извинения за доставленные неудобства.</p>
-<!--- language code: ru -->
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Плановое обновление БД]]></title>
-            <link>https://status.aplaut.io/incidents/3acba1c1</link>
-            <guid>https://status.aplaut.io/incidents/3acba1c1</guid>
-            <pubDate>Wed, 02 Dec 2020 12:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p>Плановое обновление сервера БД. Ожидается кратковременная недоступность некоторых
-сервисов до 15 минут.</p>
 <!--- language code: ru -->
 ]]></content:encoded>
         </item>
