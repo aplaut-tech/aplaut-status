@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2021-01-26T13:27:26.511Z</updated>
+    <updated>2021-01-26T13:30:00.566Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Задержка в доставке некоторых типов писем]]></title>
+        <id>https://status.aplaut.io/incidents/1412a9a4</id>
+        <link href="https://status.aplaut.io/incidents/1412a9a4"/>
+        <updated>2021-01-26T13:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Наблюдается задержка в доставке некоторых типов писем (уведомления, приглашения...).
+Выясняем причину.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Недоступность Widgets API]]></title>
         <id>https://status.aplaut.io/incidents/7bae0d88</id>
