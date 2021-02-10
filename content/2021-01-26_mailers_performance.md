@@ -5,7 +5,7 @@ severity: degraded-performance
 affectedsystems:
   - notifications-delivery
   - campaigns-delivery
-resolved: false
+resolved: true
 ---
 Наблюдается задержка в доставке некоторых типов писем (уведомления, приглашения...).
 Выясняем причину.
