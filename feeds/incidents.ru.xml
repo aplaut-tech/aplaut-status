@@ -4,10 +4,25 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Fri, 29 Jan 2021 09:55:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2021 07:12:22 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Недоступность Widgets API]]></title>
+            <link>https://status.aplaut.io/incidents/32b62767</link>
+            <guid>https://status.aplaut.io/incidents/32b62767</guid>
+            <pubDate>Wed, 10 Feb 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Сегодня c 00:00 до 07:00 по Москве наблюдалась частичная недоступность
+Widgets API. Из-за сетевого сбоя отвалилась одна нода Docker Swarm кластера
+и не смогла самостоятельно восстановиться. В результате часть трафика ушла на
+другие ноды, что увеличило нагрузку на них.</p>
+<br>
+В ближайшее время запланируем обновление ПО, которое должно исправить данную проблему.
+Приносим извинения за доставленные неудобства.
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Задержка в доставке некоторых типов писем]]></title>
             <link>https://status.aplaut.io/incidents/1412a9a4</link>

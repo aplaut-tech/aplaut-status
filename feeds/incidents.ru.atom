@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2021-01-29T09:55:52.551Z</updated>
+    <updated>2021-02-10T07:12:22.859Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Недоступность Widgets API]]></title>
+        <id>https://status.aplaut.io/incidents/32b62767</id>
+        <link href="https://status.aplaut.io/incidents/32b62767"/>
+        <updated>2021-02-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Сегодня c 00:00 до 07:00 по Москве наблюдалась частичная недоступность
+Widgets API. Из-за сетевого сбоя отвалилась одна нода Docker Swarm кластера
+и не смогла самостоятельно восстановиться. В результате часть трафика ушла на
+другие ноды, что увеличило нагрузку на них.</p>
+<br>
+В ближайшее время запланируем обновление ПО, которое должно исправить данную проблему.
+Приносим извинения за доставленные неудобства.
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Задержка в доставке некоторых типов писем]]></title>
         <id>https://status.aplaut.io/incidents/1412a9a4</id>
