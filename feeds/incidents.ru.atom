@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2021-02-10T07:12:22.859Z</updated>
+    <updated>2021-03-09T17:12:47.026Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Апгрейд сервисов кэширования]]></title>
+        <id>https://status.aplaut.io/incidents/65aecd74</id>
+        <link href="https://status.aplaut.io/incidents/65aecd74"/>
+        <updated>2021-03-09T21:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Планируется перезагрузить некоторые сервисы и сбросить кеш виджетов.
+Ожидается увеличение latency Widgets API в течение 30 минут.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Недоступность Widgets API]]></title>
         <id>https://status.aplaut.io/incidents/32b62767</id>
