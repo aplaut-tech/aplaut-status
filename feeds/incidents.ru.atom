@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2021-03-10T19:53:59.264Z</updated>
+    <updated>2021-03-10T20:30:03.364Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
