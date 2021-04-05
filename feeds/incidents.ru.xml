@@ -4,14 +4,25 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Thu, 01 Apr 2021 10:58:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Apr 2021 07:47:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Увеличение задержки в Widgets API]]></title>
+            <title><![CDATA[Инвалидация кэша виджетов]]></title>
             <link>https://status.aplaut.io/incidents/653ad26c</link>
             <guid>https://status.aplaut.io/incidents/653ad26c</guid>
+            <pubDate>Sat, 03 Apr 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Частично не работает инвалидация кэша виджетов по событиям.
+Новые отзывы/комментарии на сайте не появляются сразу после публикации,
+а только в течение суток.</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Увеличение задержки в Widgets API]]></title>
+            <link>https://status.aplaut.io/incidents/984bbf20</link>
+            <guid>https://status.aplaut.io/incidents/984bbf20</guid>
             <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>Наблюдается увеличение задержки в Widgets API и Platform API.
 Причина локализована. Ведутся работы по расширению серверного кластера.</p>

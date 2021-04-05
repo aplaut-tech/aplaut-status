@@ -2,15 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2021-04-01T10:58:18.920Z</updated>
+    <updated>2021-04-05T07:47:19.143Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
     <entry>
-        <title type="html"><![CDATA[Увеличение задержки в Widgets API]]></title>
+        <title type="html"><![CDATA[Инвалидация кэша виджетов]]></title>
         <id>https://status.aplaut.io/incidents/653ad26c</id>
         <link href="https://status.aplaut.io/incidents/653ad26c"/>
+        <updated>2021-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Частично не работает инвалидация кэша виджетов по событиям.
+Новые отзывы/комментарии на сайте не появляются сразу после публикации,
+а только в течение суток.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Увеличение задержки в Widgets API]]></title>
+        <id>https://status.aplaut.io/incidents/984bbf20</id>
+        <link href="https://status.aplaut.io/incidents/984bbf20"/>
         <updated>2021-04-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Наблюдается увеличение задержки в Widgets API и Platform API.
 Причина локализована. Ведутся работы по расширению серверного кластера.</p>
