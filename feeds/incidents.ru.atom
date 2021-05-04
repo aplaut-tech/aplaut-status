@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2021-05-04T06:20:38.347Z</updated>
+    <updated>2021-05-04T06:24:14.435Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
@@ -19,23 +19,23 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Не работают async jobs]]></title>
-        <id>https://status.aplaut.io/incidents/32b62767</id>
-        <link href="https://status.aplaut.io/incidents/32b62767"/>
-        <updated>2021-04-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>С 1 мая не работают асинхронные задачи (отправка всех писем, импорт/экспорт данных,
-и т.д.). Проблема произошла после очередного деплоя в пятницу вечером.
-Выясняем причину.</p>
-<!--- language code: ru -->
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Увеличение задержки в Widgets API]]></title>
         <id>https://status.aplaut.io/incidents/984bbf20</id>
         <link href="https://status.aplaut.io/incidents/984bbf20"/>
         <updated>2021-04-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Наблюдается увеличение задержки в Widgets API и Platform API.
 Причина локализована. Ведутся работы по расширению серверного кластера.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Не работают async jobs]]></title>
+        <id>https://status.aplaut.io/incidents/1e30b278</id>
+        <link href="https://status.aplaut.io/incidents/1e30b278"/>
+        <updated>2021-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>С 1 мая не работают асинхронные задачи (отправка всех писем, импорт/экспорт данных,
+и т.д.). Проблема произошла после очередного деплоя в пятницу вечером.
+Выясняем причину.</p>
 <!--- language code: ru -->
 ]]></content>
     </entry>
@@ -61,8 +61,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Недоступность Widgets API]]></title>
-        <id>https://status.aplaut.io/incidents/1e30b278</id>
-        <link href="https://status.aplaut.io/incidents/1e30b278"/>
+        <id>https://status.aplaut.io/incidents/32b62767</id>
+        <link href="https://status.aplaut.io/incidents/32b62767"/>
         <updated>2021-02-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Сегодня c 00:00 до 07:00 по Москве наблюдалась частичная недоступность
 Widgets API. Из-за сетевого сбоя отвалилась одна нода Docker Swarm кластера
