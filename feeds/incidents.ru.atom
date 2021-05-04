@@ -2,22 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2021-05-04T06:29:43.528Z</updated>
+    <updated>2021-05-04T08:24:59.457Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
-    <entry>
-        <title type="html"><![CDATA[Не работают async jobs]]></title>
-        <id>https://status.aplaut.io/incidents/1e30b278</id>
-        <link href="https://status.aplaut.io/incidents/1e30b278"/>
-        <updated>2021-05-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>С 1 мая не работают асинхронные задачи (отправка всех писем, импорт/экспорт данных,
-и т.д.). Проблема произошла после очередного деплоя в пятницу вечером.
-Выясняем причину.</p>
-<!--- language code: ru -->
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Инвалидация кэша виджетов]]></title>
         <id>https://status.aplaut.io/incidents/653ad26c</id>
