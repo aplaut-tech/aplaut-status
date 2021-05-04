@@ -4,7 +4,7 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Wed, 07 Apr 2021 19:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 06:20:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
@@ -16,6 +16,17 @@
             <content:encoded><![CDATA[<p>Частично не работает инвалидация кэша виджетов по событиям.
 Новые отзывы/комментарии на сайте не появляются сразу после публикации,
 а только в течение суток.</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Не работают async jobs]]></title>
+            <link>https://status.aplaut.io/incidents/32b62767</link>
+            <guid>https://status.aplaut.io/incidents/32b62767</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>С 1 мая не работают асинхронные задачи (отправка всех писем, импорт/экспорт данных,
+и т.д.). Проблема произошла после очередного деплоя в пятницу вечером.
+Выясняем причину.</p>
 <!--- language code: ru -->
 ]]></content:encoded>
         </item>
@@ -51,8 +62,8 @@
         </item>
         <item>
             <title><![CDATA[Недоступность Widgets API]]></title>
-            <link>https://status.aplaut.io/incidents/32b62767</link>
-            <guid>https://status.aplaut.io/incidents/32b62767</guid>
+            <link>https://status.aplaut.io/incidents/1e30b278</link>
+            <guid>https://status.aplaut.io/incidents/1e30b278</guid>
             <pubDate>Wed, 10 Feb 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>Сегодня c 00:00 до 07:00 по Москве наблюдалась частичная недоступность
 Widgets API. Из-за сетевого сбоя отвалилась одна нода Docker Swarm кластера
