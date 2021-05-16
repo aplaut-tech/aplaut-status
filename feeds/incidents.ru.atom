@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2021-05-16T13:16:13.334Z</updated>
+    <updated>2021-05-16T13:27:01.892Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
@@ -11,8 +11,9 @@
         <title type="html"><![CDATA[Плановое расширение Widgets API]]></title>
         <id>https://status.aplaut.io/incidents/4a6f9150</id>
         <link href="https://status.aplaut.io/incidents/4a6f9150"/>
-        <updated>2021-05-16T12:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Добавляем новые кэширующие сервера.</p>
+        <updated>2021-05-16T13:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Добавляем новые кэширующие сервера. Ожидается не значительное увеличение latency
+после переключения трафика на новые сервера.</p>
 <!--- language code: ru -->
 ]]></content>
     </entry>
