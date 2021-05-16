@@ -4,10 +4,19 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Tue, 04 May 2021 08:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 May 2021 13:16:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Плановое расширение Widgets API]]></title>
+            <link>https://status.aplaut.io/incidents/4a6f9150</link>
+            <guid>https://status.aplaut.io/incidents/4a6f9150</guid>
+            <pubDate>Sun, 16 May 2021 12:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Добавляем новые кэширующие сервера.</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Инвалидация кэша виджетов]]></title>
             <link>https://status.aplaut.io/incidents/653ad26c</link>
