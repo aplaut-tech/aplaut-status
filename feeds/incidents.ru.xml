@@ -4,7 +4,7 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Mon, 31 May 2021 14:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 May 2021 14:52:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
@@ -13,7 +13,7 @@
             <link>https://status.aplaut.io/incidents/2b5a6d87</link>
             <guid>https://status.aplaut.io/incidents/2b5a6d87</guid>
             <pubDate>Mon, 31 May 2021 14:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p>Добавляем новую ноду в кластер ElasticSearch. Простоев сервисов не ожидается.</p>
+            <content:encoded><![CDATA[<p>Добавляем новую ноду в кластер ElasticSearch. Простоя сервисов не ожидается.</p>
 <!--- language code: ru -->
 ]]></content:encoded>
         </item>
