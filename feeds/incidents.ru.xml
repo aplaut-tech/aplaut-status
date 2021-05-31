@@ -4,17 +4,16 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Sun, 16 May 2021 13:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 May 2021 14:35:28 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Плановое расширение Widgets API]]></title>
-            <link>https://status.aplaut.io/incidents/4a6f9150</link>
-            <guid>https://status.aplaut.io/incidents/4a6f9150</guid>
-            <pubDate>Sun, 16 May 2021 13:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p>Добавляем новые кэширующие сервера. Ожидается не значительное увеличение latency
-после переключения трафика на новые сервера.</p>
+            <title><![CDATA[Добавление ноды в поисковый кластер]]></title>
+            <link>https://status.aplaut.io/incidents/2b5a6d87</link>
+            <guid>https://status.aplaut.io/incidents/2b5a6d87</guid>
+            <pubDate>Mon, 31 May 2021 15:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Добавляем новую ноду в кластер ElasticSearch. Простоев сервисов не ожидается.</p>
 <!--- language code: ru -->
 ]]></content:encoded>
         </item>
