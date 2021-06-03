@@ -4,14 +4,24 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Thu, 03 Jun 2021 11:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jun 2021 11:31:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Добавление памяти]]></title>
+            <link>https://status.aplaut.io/incidents/61e7cf78</link>
+            <guid>https://status.aplaut.io/incidents/61e7cf78</guid>
+            <pubDate>Thu, 03 Jun 2021 12:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Выделяем больше памяти для поисковых серверов. Ожидаются падение производительности
+сервисов в течение нескольких минут.</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Перенос сервера очередей]]></title>
-            <link>https://status.aplaut.io/incidents/1f00158b</link>
-            <guid>https://status.aplaut.io/incidents/1f00158b</guid>
+            <link>https://status.aplaut.io/incidents/61e75b19</link>
+            <guid>https://status.aplaut.io/incidents/61e75b19</guid>
             <pubDate>Thu, 03 Jun 2021 07:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>Переносим сервис очередей на новый сервер.</p>
 <!--- language code: ru -->
