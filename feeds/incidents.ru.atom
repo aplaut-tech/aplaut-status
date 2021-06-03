@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2021-05-31T20:24:55.036Z</updated>
+    <updated>2021-06-03T09:12:55.645Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Перенос сервера очередей]]></title>
+        <id>https://status.aplaut.io/incidents/1f00158b</id>
+        <link href="https://status.aplaut.io/incidents/1f00158b"/>
+        <updated>2021-06-03T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Переносим сервис очередей на новый сервер.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Добавление ноды в поисковый кластер]]></title>
         <id>https://status.aplaut.io/incidents/2b5a6d87</id>
