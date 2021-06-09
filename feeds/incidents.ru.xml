@@ -4,7 +4,7 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Thu, 03 Jun 2021 12:58:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jun 2021 09:28:48 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
@@ -12,9 +12,19 @@
             <title><![CDATA[Добавление памяти]]></title>
             <link>https://status.aplaut.io/incidents/61e7cf78</link>
             <guid>https://status.aplaut.io/incidents/61e7cf78</guid>
-            <pubDate>Thu, 03 Jun 2021 12:00:00 GMT</pubDate>
+            <pubDate>Wed, 09 Jun 2021 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>Выделяем больше памяти для поисковых серверов. Ожидаются падение производительности
 сервисов в течение нескольких минут.</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Обновление SSL сертификатов]]></title>
+            <link>https://status.aplaut.io/incidents/3821e391</link>
+            <guid>https://status.aplaut.io/incidents/3821e391</guid>
+            <pubDate>Wed, 09 Jun 2021 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Запланировано обновление SSL сертификатов на кэш серверах Widgets API в 23:00 по Москве.
+Ожидается незначительный простой в течение 1-2 минуты.</p>
 <!--- language code: ru -->
 ]]></content:encoded>
         </item>

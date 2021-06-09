@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2021-06-03T12:58:49.348Z</updated>
+    <updated>2021-06-09T09:28:48.247Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
@@ -11,9 +11,19 @@
         <title type="html"><![CDATA[Добавление памяти]]></title>
         <id>https://status.aplaut.io/incidents/61e7cf78</id>
         <link href="https://status.aplaut.io/incidents/61e7cf78"/>
-        <updated>2021-06-03T12:00:00.000Z</updated>
+        <updated>2021-06-09T09:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Выделяем больше памяти для поисковых серверов. Ожидаются падение производительности
 сервисов в течение нескольких минут.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Обновление SSL сертификатов]]></title>
+        <id>https://status.aplaut.io/incidents/3821e391</id>
+        <link href="https://status.aplaut.io/incidents/3821e391"/>
+        <updated>2021-06-09T09:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Запланировано обновление SSL сертификатов на кэш серверах Widgets API в 23:00 по Москве.
+Ожидается незначительный простой в течение 1-2 минуты.</p>
 <!--- language code: ru -->
 ]]></content>
     </entry>
