@@ -4,10 +4,20 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Wed, 09 Jun 2021 11:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jun 2021 20:15:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Обновление SSL сертификатов]]></title>
+            <link>https://status.aplaut.io/incidents/3821e391</link>
+            <guid>https://status.aplaut.io/incidents/3821e391</guid>
+            <pubDate>Wed, 09 Jun 2021 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Запланировано обновление SSL сертификатов на кэш серверах Widgets API в 23:00 по Москве.
+Ожидается незначительный простой в течение 1-2 минуты.</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Перенос сервера очередей]]></title>
             <link>https://status.aplaut.io/incidents/61e75b19</link>
