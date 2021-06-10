@@ -5,7 +5,7 @@ severity: under-maintenance
 affectedsystems:
   - widgets-api
   - submissions-api
-resolved: false
+resolved: true
 scheduled: '2021-06-09T20:00:00.00Z'
 duration: 10
 ---
