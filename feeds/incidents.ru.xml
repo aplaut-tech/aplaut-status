@@ -4,10 +4,20 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Thu, 17 Jun 2021 09:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Jun 2021 19:34:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Добавление памяти]]></title>
+            <link>https://status.aplaut.io/incidents/37fca57c</link>
+            <guid>https://status.aplaut.io/incidents/37fca57c</guid>
+            <pubDate>Thu, 17 Jun 2021 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Выделяем больше памяти для поисковых серверов, а также обновляем сервисы Docker.
+Ожидаются падение производительности сервисов в течение нескольких минут (4 раза).</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Обновление SSL сертификатов]]></title>
             <link>https://status.aplaut.io/incidents/3821e391</link>
