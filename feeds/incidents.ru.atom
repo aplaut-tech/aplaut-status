@@ -2,27 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2021-06-17T22:20:16.183Z</updated>
+    <updated>2021-06-29T22:38:39.638Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
     <entry>
-        <title type="html"><![CDATA[Добавление памяти]]></title>
-        <id>https://status.aplaut.io/incidents/37fca57c</id>
-        <link href="https://status.aplaut.io/incidents/37fca57c"/>
-        <updated>2021-06-17T09:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Выделяем больше памяти для поисковых серверов, а также обновляем сервисы Docker.
-Ожидаются падение производительности сервисов в течение нескольких минут (4 раза).</p>
-<!--- language code: ru -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Обновление nginx]]></title>
-        <id>https://status.aplaut.io/incidents/37fd19db</id>
-        <link href="https://status.aplaut.io/incidents/37fd19db"/>
-        <updated>2021-06-17T09:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Обновляем конфиг nginx на некоторых серверах. Ожидается простой на пару минут.</p>
+        <title type="html"><![CDATA[Неисправность оборудования]]></title>
+        <id>https://status.aplaut.io/incidents/4b28f9d5</id>
+        <link href="https://status.aplaut.io/incidents/4b28f9d5"/>
+        <updated>2021-06-29T15:34:32.188Z</updated>
+        <content type="html"><![CDATA[<p>Проблемы с локальной сетью в датацентре, вызыванные неисправностью оборудования,
+привели к распаду виртуального облака. Большая часть сервисов недоступна либо
+отвечает с большими задержками. Мы работаем над решением проблемы совместно с
+инженерами хостинг-провайдера.</p>
 <!--- language code: ru -->
 ]]></content>
     </entry>
@@ -33,6 +26,16 @@
         <updated>2021-06-09T09:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Запланировано обновление SSL сертификатов на кэш серверах Widgets API в 23:00 по Москве.
 Ожидается незначительный простой в течение 1-2 минуты.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Добавление памяти]]></title>
+        <id>https://status.aplaut.io/incidents/8c639804</id>
+        <link href="https://status.aplaut.io/incidents/8c639804"/>
+        <updated>2021-06-09T09:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Выделяем больше памяти для поисковых серверов. Ожидаются падение производительности
+сервисов в течение нескольких минут.</p>
 <!--- language code: ru -->
 ]]></content>
     </entry>
