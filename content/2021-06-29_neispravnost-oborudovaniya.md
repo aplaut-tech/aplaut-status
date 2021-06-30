@@ -1,6 +1,6 @@
 ---
 title: Неисправность оборудования
-date: "2021-06-29T15:34:32.188Z"
+date: '2021-06-29T15:34:32.188Z'
 severity: major-outage
 affectedsystems:
   - widgets-api
@@ -10,7 +10,8 @@ affectedsystems:
   - campaigns-delivery
   - notifications-delivery
   - reviews-monitoring
-resolved: false
+resolved: true
+modified: '2021-06-30T18:53:21.982Z'
 ---
 
 Проблемы с локальной сетью в датацентре, вызыванные неисправностью оборудования,
