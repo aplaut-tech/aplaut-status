@@ -10,7 +10,7 @@ affectedsystems:
 resolved: true
 scheduled: '2021-05-31T14:30:00.000Z'
 duration: 6h
-modified: '2021-06-30T19:17:25.900Z'
+modified: '2021-06-30T19:23:31.786Z'
 ---
 Добавляем новую ноду в кластер ElasticSearch. Простоя сервисов не ожидается.
 
