@@ -4,10 +4,19 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Tue, 29 Jun 2021 22:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jun 2021 18:56:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Восстановление после сбоя]]></title>
+            <link>https://status.aplaut.io/incidents/7c53eed3</link>
+            <guid>https://status.aplaut.io/incidents/7c53eed3</guid>
+            <pubDate>Wed, 30 Jun 2021 18:55:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Большая часть сервисов восстановлена, но ещё наблюдается небольшое падение производительности Widgets API и задержки при доставке email.</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Неисправность оборудования]]></title>
             <link>https://status.aplaut.io/incidents/4b28f9d5</link>
