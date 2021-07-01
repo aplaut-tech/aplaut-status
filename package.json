@@ -23,6 +23,7 @@
     "npm": ">=5"
   },
   "devDependencies": {
+    "@babel/preset-env": "7.12.17",
     "gh-pages": "^2.1.1"
   }
 }
