@@ -4,10 +4,20 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Thu, 01 Jul 2021 14:54:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jul 2021 09:55:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ошибки в фотографиях]]></title>
+            <link>https://status.aplaut.io/incidents/0e44e776</link>
+            <guid>https://status.aplaut.io/incidents/0e44e776</guid>
+            <pubDate>Wed, 07 Jul 2021 07:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Ошибка в конфигурация привела к неверно формируемым в production URL фотографий.
+Из-за этого в виджетах могли выводиться неверные фото.</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Восстановление после сбоя]]></title>
             <link>https://status.aplaut.io/incidents/7c53eed3</link>

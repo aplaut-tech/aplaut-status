@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2021-07-01T14:54:59.864Z</updated>
+    <updated>2021-07-07T09:55:56.265Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Ошибки в фотографиях]]></title>
+        <id>https://status.aplaut.io/incidents/0e44e776</id>
+        <link href="https://status.aplaut.io/incidents/0e44e776"/>
+        <updated>2021-07-07T07:23:27.348Z</updated>
+        <content type="html"><![CDATA[<p>Ошибка в конфигурация привела к неверно формируемым в production URL фотографий.
+Из-за этого в виджетах могли выводиться неверные фото.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Восстановление после сбоя]]></title>
         <id>https://status.aplaut.io/incidents/7c53eed3</id>
