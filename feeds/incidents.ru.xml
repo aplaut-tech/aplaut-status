@@ -4,7 +4,7 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Thu, 08 Jul 2021 07:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jul 2021 08:01:46 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
@@ -27,9 +27,14 @@
 привели к распаду виртуального облака. Большая часть сервисов недоступна либо
 отвечает с большими задержками. Мы работаем над решением проблемы совместно с
 инженерами хостинг-провайдера.</p>
-<p>::: update Resolved | 2021-07-01T11::52.000Z :::</p>
-<p>Большая часть сервисов восстановлена, но ещё наблюдается небольшое падение
-производительности Widgets API и задержки при доставке email.</p>
+<p>::: update Monitoring | 2021-07-01T11::52.000Z
+Большая часть сервисов восстановлена, но ещё наблюдается небольшое падение
+производительности Widgets API и задержки при доставке email.
+:::</p>
+<p>::: update Resolved | 2021-07-01T18::00.000Z
+Анализ проблемы выявил ошибку в ПО для управления кластером физических серверов.
+В ближайшее время будет запланировано обновление сервисов кластера.
+:::</p>
 <!--- language code: ru -->
 ]]></content:encoded>
         </item>
