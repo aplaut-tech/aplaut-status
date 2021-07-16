@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.aplaut.io</id>
     <title>Сервисы Aplaut</title>
-    <updated>2021-07-08T08:19:21.320Z</updated>
+    <updated>2021-07-16T05:44:25.768Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.aplaut.io"/>
     <link rel="self" href="https://status.aplaut.io/feeds/incidents.ru.atom"/>
     <subtitle>Вы можете подписаться на статус всех сервисов Aplaut</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Нехватка памяти на сервисе очередей]]></title>
+        <id>https://status.aplaut.io/incidents/d70cb546</id>
+        <link href="https://status.aplaut.io/incidents/d70cb546"/>
+        <updated>2021-07-16T05:12:00.815Z</updated>
+        <content type="html"><![CDATA[<p>Нехватка памяти привела к временной недоступности сервиса очередей, отчего часть
+других сервисов может работать медленнее или с ошибками. Затронуты только те
+эндпоинты, которые изменяли какие-либо данные внутри Aplaut. Запросы за
+виджетами и данными (GET) работают без простоя.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ошибки в фотографиях]]></title>
         <id>https://status.aplaut.io/incidents/0e44e776</id>
@@ -18,49 +30,23 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Восстановление после сбоя]]></title>
+        <id>https://status.aplaut.io/incidents/7c53eed3</id>
+        <link href="https://status.aplaut.io/incidents/7c53eed3"/>
+        <updated>2021-06-30T18:55:57.635Z</updated>
+        <content type="html"><![CDATA[<p>Большая часть сервисов восстановлена, но ещё наблюдается небольшое падение производительности Widgets API и задержки при доставке email.</p>
+<!--- language code: ru -->
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Неисправность оборудования]]></title>
         <id>https://status.aplaut.io/incidents/4b28f9d5</id>
         <link href="https://status.aplaut.io/incidents/4b28f9d5"/>
         <updated>2021-06-29T15:34:32.188Z</updated>
-        <content type="html"><![CDATA[<p>Проблемы с локальной сетью в дата-центре, вызванные неисправностью оборудования,
+        <content type="html"><![CDATA[<p>Проблемы с локальной сетью в датацентре, вызыванные неисправностью оборудования,
 привели к распаду виртуального облака. Большая часть сервисов недоступна либо
 отвечает с большими задержками. Мы работаем над решением проблемы совместно с
 инженерами хостинг-провайдера.</p>
-<div class="update-block">
-          <div class="update-block-date">2021-07-01T11:52:00.000Z</div>
-          <div class="update-block-content">
-            <div class="update-block-title">Monitoring</div>
-            <div class="update-block-body">
-<p>Большая часть сервисов восстановлена, но ещё наблюдается небольшое падение
-производительности Widgets API и задержки при доставке email.</p>
-</div></div></div>
-<div class="update-block">
-          <div class="update-block-date">2021-07-01T18:00:00.000Z</div>
-          <div class="update-block-content">
-            <div class="update-block-title">Resolved</div>
-            <div class="update-block-body">
-<p>Анализ проблемы выявил ошибку в ПО для управления кластером физических серверов.
-В ближайшее время будет запланировано обновление сервисов кластера.</p>
-</div></div></div>
-<!--- language code: ru -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Добавление памяти]]></title>
-        <id>https://status.aplaut.io/incidents/37fca57c</id>
-        <link href="https://status.aplaut.io/incidents/37fca57c"/>
-        <updated>2021-06-17T09:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Выделяем больше памяти для поисковых серверов, а также обновляем сервисы Docker.
-Ожидаются падение производительности сервисов в течение нескольких минут (4 раза).</p>
-<!--- language code: ru -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Обновление nginx]]></title>
-        <id>https://status.aplaut.io/incidents/37fd19db</id>
-        <link href="https://status.aplaut.io/incidents/37fd19db"/>
-        <updated>2021-06-17T09:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Обновляем конфиг nginx на некоторых серверах. Ожидается простой на пару минут.</p>
 <!--- language code: ru -->
 ]]></content>
     </entry>
