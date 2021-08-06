@@ -4,10 +4,19 @@
         <title>Сервисы Aplaut</title>
         <link>https://status.aplaut.io</link>
         <description>Вы можете подписаться на статус всех сервисов Aplaut</description>
-        <lastBuildDate>Thu, 05 Aug 2021 15:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 06:10:40 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.aplaut.io/feeds/incidents.ru.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Обновление ПО]]></title>
+            <link>https://status.aplaut.io/incidents/e9964a1a</link>
+            <guid>https://status.aplaut.io/incidents/e9964a1a</guid>
+            <pubDate>Fri, 06 Aug 2021 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Обновление версии ПО базы данных. Снижение доступности сервисов не ожидается.</p>
+<!--- language code: ru -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Обновление ПО]]></title>
             <link>https://status.aplaut.io/incidents/28f2eaf0</link>
